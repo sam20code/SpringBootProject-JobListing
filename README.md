@@ -1,13 +1,23 @@
 # SpringBootProject-JobListing
 A Spring Boot application using MongoDB a database.
 
-## Summary:
+---
+## Technologies Used:
+---
+- `Spring Boot`: For building the REST API and managing application components.
+- `MongoDB`: As the database to store job listings and enable fast retrieval using MongoDB's aggregation capabilities.
+- `Java`, `Postamn`
+- Dependencies used
+  - `Spring web application`
+  - `NoSQL dependencies`
+  
+## Introduction:
 ---
 - The Job Listing System is a Spring Boot-based REST API that enables users to post and search job listings.
 - It provides endpoints for
-  - posting new job listings,
+  - posting new job listings - key concept - `CRUD operations`,
   - retrieving all existing job listings,
-  - and searching for jobs based on specified criteria.
+  - and searching for jobs based on specified criteria - key concept - `Indexing of data`
 
 ---
 ## Description:
@@ -23,8 +33,4 @@ A Spring Boot application using MongoDB a database.
 - View All Job Listings: The system provides an endpoint to retrieve all existing job listings in the database.
 - Search Jobs: Users can search for job listings based on specified keywords, such as required skills, job description, or job profile.
 ---
-## Technologies Used:
----
-- Spring Boot: For building the REST API and managing application components.
-- MongoDB: As the database to store job listings and enable fast retrieval using MongoDB's aggregation capabilities.
 
