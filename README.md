@@ -1,5 +1,5 @@
 # Spring Boot Project - JobListing
-A Spring Boot application using MongoDB a database.
+A Spring Boot application using MongoDB a database. Which allows user to perform post job, retrieves job, search job features. Key concepts this applications highlights CRUD operation, efficient search query by indexing and making custom method to interact with database
 
 ---
 ## Technologies Used:
