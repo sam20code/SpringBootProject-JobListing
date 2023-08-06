@@ -25,6 +25,6 @@ A Spring Boot application using MongoDB a database.
 ---
 ## Technologies Used:
 ---
-Spring Boot: For building the REST API and managing application components.
-MongoDB: As the database to store job listings and enable fast retrieval using MongoDB's aggregation capabilities.
+- Spring Boot: For building the REST API and managing application components.
+- MongoDB: As the database to store job listings and enable fast retrieval using MongoDB's aggregation capabilities.
 
