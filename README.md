@@ -1,4 +1,4 @@
-# SpringBootProject-JobListing
+# Spring Boot Project - JobListing
 A Spring Boot application using MongoDB a database.
 
 ---
